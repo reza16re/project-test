@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mvgp architect</string>
+    <string name="todo">todo</string>
+    <string name="add_task">اضافه کردن وظیفه</string>
+    <string name="manege_task">مدیریت وظایف</string>
+    <string name="true_works">انجام شده</string>
+    <string name="false_works">انجام نشده</string>
+    <string name="text_task">وظیفه را وارد کنید</string>
+    <string name="save">ذخیره کردن</string>
+    <string name="cancel">منصرف شدن</string>
+</resources>
